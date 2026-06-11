@@ -113,3 +113,11 @@ After scraping:
 1. `ai_extractor.py` batches products and asks Groq/Llama 3 for structured fields.
 2. `etl.py` parses price ranges, cleans locations, removes duplicates, computes data quality, and exports CSV/JSON.
 3. `eda.py` creates charts and summary insights in `eda_report.html`.
+
+## Screenshots
+<img width="1879" height="831" alt="Screenshot 2026-06-11 134131" src="https://github.com/user-attachments/assets/d060a4f7-521f-4292-82ff-3ad59388eb09" />
+<img width="1889" height="826" alt="Screenshot 2026-06-11 134153" src="https://github.com/user-attachments/assets/98b3def7-0fb3-48ab-a035-b422d6f8bb43" />
+<img width="1886" height="821" alt="Screenshot 2026-06-11 134210" src="https://github.com/user-attachments/assets/b80e6c91-cc2e-4da5-8d1f-9c23c921e6f9" />
+
+
+
