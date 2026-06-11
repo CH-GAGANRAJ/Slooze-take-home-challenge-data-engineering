@@ -1,0 +1,13 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Generated pipeline outputs
+data/raw/
+
+# Local/editor files
+.DS_Store
+.vscode/
+.idea/
